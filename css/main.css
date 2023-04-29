@@ -10,4 +10,6 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  color: red;
+  background-color: aqua;
 }/*# sourceMappingURL=main.css.map */
